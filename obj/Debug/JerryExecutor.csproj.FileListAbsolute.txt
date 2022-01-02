@@ -1,0 +1,13 @@
+D:\VS\proj\JerryExecutor\JerryExecutor\bin\Debug\JerryExecutor.exe.config
+D:\VS\proj\JerryExecutor\JerryExecutor\bin\Debug\JerryExecutor.exe
+D:\VS\proj\JerryExecutor\JerryExecutor\bin\Debug\JerryExecutor.pdb
+D:\VS\proj\JerryExecutor\JerryExecutor\bin\Debug\FastColoredTextBox.dll
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.JerryExecutor.resources
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.Properties.Resources.resources
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.csproj.GenerateResource.cache
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.csproj.CoreCompileInputs.cache
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.csproj.CopyComplete
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.exe
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.pdb
+D:\VS\proj\JerryExecutor\JerryExecutor\obj\Debug\JerryExecutor.ScriptHub.resources
+D:\VS\proj\JerryExecutor\JerryExecutor\bin\Debug\KrnlAPI.dll
